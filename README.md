@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <div>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongodb"/>
@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express js"/>
   </div>
 
-  <h3 align="center">A storage Management System </h3>
+  <h3>A storage Management System </h3>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
